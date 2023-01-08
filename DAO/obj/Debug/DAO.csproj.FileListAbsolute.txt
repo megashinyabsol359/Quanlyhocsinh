@@ -1,0 +1,22 @@
+F:\Documents\MonHoc\Nam3\Ki2\NMCNPM\DoAn\QuanLyHocSinh_\DAO\bin\Debug\DAO.dll
+F:\Documents\MonHoc\Nam3\Ki2\NMCNPM\DoAn\QuanLyHocSinh_\DAO\bin\Debug\DAO.pdb
+F:\Documents\MonHoc\Nam3\Ki2\NMCNPM\DoAn\QuanLyHocSinh_\DAO\bin\Debug\Dapper.dll
+F:\Documents\MonHoc\Nam3\Ki2\NMCNPM\DoAn\QuanLyHocSinh_\DAO\bin\Debug\DTO.dll
+F:\Documents\MonHoc\Nam3\Ki2\NMCNPM\DoAn\QuanLyHocSinh_\DAO\bin\Debug\DTO.pdb
+F:\Documents\MonHoc\Nam3\Ki2\NMCNPM\DoAn\QuanLyHocSinh_\DAO\bin\Debug\Dapper.xml
+F:\Documents\MonHoc\Nam3\Ki2\NMCNPM\DoAn\QuanLyHocSinh_\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+F:\Documents\MonHoc\Nam3\Ki2\NMCNPM\DoAn\QuanLyHocSinh_\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+F:\Documents\MonHoc\Nam3\Ki2\NMCNPM\DoAn\QuanLyHocSinh_\DAO\obj\Debug\DAO.csproj.CopyComplete
+F:\Documents\MonHoc\Nam3\Ki2\NMCNPM\DoAn\QuanLyHocSinh_\DAO\obj\Debug\DAO.dll
+F:\Documents\MonHoc\Nam3\Ki2\NMCNPM\DoAn\QuanLyHocSinh_\DAO\obj\Debug\DAO.pdb
+C:\Users\megashinyabsol\Desktop\Thư mục mới\QuanLyHocSinh_-main\QuanLyHocSinh_-main\DAO\bin\Debug\DAO.dll
+C:\Users\megashinyabsol\Desktop\Thư mục mới\QuanLyHocSinh_-main\QuanLyHocSinh_-main\DAO\bin\Debug\DAO.pdb
+C:\Users\megashinyabsol\Desktop\Thư mục mới\QuanLyHocSinh_-main\QuanLyHocSinh_-main\DAO\bin\Debug\Dapper.dll
+C:\Users\megashinyabsol\Desktop\Thư mục mới\QuanLyHocSinh_-main\QuanLyHocSinh_-main\DAO\bin\Debug\DTO.dll
+C:\Users\megashinyabsol\Desktop\Thư mục mới\QuanLyHocSinh_-main\QuanLyHocSinh_-main\DAO\bin\Debug\DTO.pdb
+C:\Users\megashinyabsol\Desktop\Thư mục mới\QuanLyHocSinh_-main\QuanLyHocSinh_-main\DAO\bin\Debug\Dapper.xml
+C:\Users\megashinyabsol\Desktop\Thư mục mới\QuanLyHocSinh_-main\QuanLyHocSinh_-main\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\megashinyabsol\Desktop\Thư mục mới\QuanLyHocSinh_-main\QuanLyHocSinh_-main\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\megashinyabsol\Desktop\Thư mục mới\QuanLyHocSinh_-main\QuanLyHocSinh_-main\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\megashinyabsol\Desktop\Thư mục mới\QuanLyHocSinh_-main\QuanLyHocSinh_-main\DAO\obj\Debug\DAO.dll
+C:\Users\megashinyabsol\Desktop\Thư mục mới\QuanLyHocSinh_-main\QuanLyHocSinh_-main\DAO\obj\Debug\DAO.pdb
