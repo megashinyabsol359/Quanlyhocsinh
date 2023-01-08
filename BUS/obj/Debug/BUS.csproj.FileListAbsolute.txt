@@ -1,0 +1,13 @@
+C:\Users\megashinyabsol\Desktop\Thư mục mới\QuanLyHocSinh_-main\QuanLyHocSinh_-main\BUS\bin\Debug\BUS.dll
+C:\Users\megashinyabsol\Desktop\Thư mục mới\QuanLyHocSinh_-main\QuanLyHocSinh_-main\BUS\bin\Debug\BUS.pdb
+C:\Users\megashinyabsol\Desktop\Thư mục mới\QuanLyHocSinh_-main\QuanLyHocSinh_-main\BUS\bin\Debug\DAO.dll
+C:\Users\megashinyabsol\Desktop\Thư mục mới\QuanLyHocSinh_-main\QuanLyHocSinh_-main\BUS\bin\Debug\DTO.dll
+C:\Users\megashinyabsol\Desktop\Thư mục mới\QuanLyHocSinh_-main\QuanLyHocSinh_-main\BUS\bin\Debug\Dapper.dll
+C:\Users\megashinyabsol\Desktop\Thư mục mới\QuanLyHocSinh_-main\QuanLyHocSinh_-main\BUS\bin\Debug\DAO.pdb
+C:\Users\megashinyabsol\Desktop\Thư mục mới\QuanLyHocSinh_-main\QuanLyHocSinh_-main\BUS\bin\Debug\DTO.pdb
+C:\Users\megashinyabsol\Desktop\Thư mục mới\QuanLyHocSinh_-main\QuanLyHocSinh_-main\BUS\bin\Debug\Dapper.xml
+C:\Users\megashinyabsol\Desktop\Thư mục mới\QuanLyHocSinh_-main\QuanLyHocSinh_-main\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\megashinyabsol\Desktop\Thư mục mới\QuanLyHocSinh_-main\QuanLyHocSinh_-main\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\megashinyabsol\Desktop\Thư mục mới\QuanLyHocSinh_-main\QuanLyHocSinh_-main\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\megashinyabsol\Desktop\Thư mục mới\QuanLyHocSinh_-main\QuanLyHocSinh_-main\BUS\obj\Debug\BUS.dll
+C:\Users\megashinyabsol\Desktop\Thư mục mới\QuanLyHocSinh_-main\QuanLyHocSinh_-main\BUS\obj\Debug\BUS.pdb
